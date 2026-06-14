@@ -28,13 +28,13 @@ const SITE = {
       handle: "MrBaconyt0",          // without the @
       displayName: "MrBacon",
       fallbackSubs: "60K",          // shown if API key is not set
-      fallbackPfp: "images/mrbacon.jpg"
+      fallbackPfp: "mrbacon.jpg"
     },
     {
       handle: "Bauix",
       displayName: "Bauix",
       fallbackSubs: "1K",
-      fallbackPfp: "images/bauix.jpg"
+      fallbackPfp: "bauix.jpg"
     }
   ],
 
