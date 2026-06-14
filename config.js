@@ -27,7 +27,7 @@ const SITE = {
     {
       handle: "MrBaconyt0",          // without the @
       displayName: "MrBacon",
-      fallbackSubs: "60K",          // shown if API key is not set
+      fallbackSubs: "61K",          // shown if API key is not set
       fallbackPfp: "mrbacon.jpg"
     },
     {
