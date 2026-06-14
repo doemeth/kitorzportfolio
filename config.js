@@ -52,7 +52,7 @@ const SITE = {
       ]
     },
     {
-      title: "Shorts / TikTok Edit",
+      title: "Shorts / TikToks",
       price: "$10",
       unit: "per short",
       features: [
