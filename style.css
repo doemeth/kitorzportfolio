@@ -9,8 +9,7 @@
    Until then, a similar bold display font is used instead. */
 @font-face {
   font-family: "Komika Axis";
-  src: url("fonts/KomikaAxis.woff2") format("woff2"),
-       url("fonts/KomikaAxis.ttf") format("truetype");
+src: url("KomikaAxis.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
