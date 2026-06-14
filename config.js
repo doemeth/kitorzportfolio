@@ -19,8 +19,7 @@ const SITE = {
     "JRIIbTsHyFU",
     "3ZHO0rPN8Mg",
     "dLX4wpP75Bg",
-    "WybW7-RzJSI",
-    "Dy8eKvq-UAY"
+    "WybW7-RzJSI"
   ],
 
   // ---- BIG CREATOR COLLABS ----
