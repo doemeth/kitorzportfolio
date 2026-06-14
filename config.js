@@ -82,16 +82,8 @@ const SITE = {
   // ---- REVIEWS ----
   reviews: [
     {
-      name: "Client A",
+      name: "Mrbacon",
       text: "Insanely fast turnaround and the edit pacing was perfect for shorts."
-    },
-    {
-      name: "Client B",
-      text: "Communication was great the whole way through, will be ordering again."
-    },
-    {
-      name: "Client C",
-      text: "The transitions and audio sync made the video feel so much more professional."
     }
   ],
 
