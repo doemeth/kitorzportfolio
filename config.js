@@ -18,8 +18,8 @@ const SITE = {
   showcaseVideos: [
     "JRIIbTsHyFU",
     "3ZHO0rPN8Mg",
-    "dLX4wpP75Bg",
-    "RLSlqg3E4MU"
+    "RLSlqg3E4MU",
+    "WybW7-RzJSI"
   ],
 
   // ---- BIG CREATOR COLLABS ----
